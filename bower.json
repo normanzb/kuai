@@ -1,0 +1,21 @@
+{
+  "name": "kuai",
+  "version": "0.0.0",
+  "devDependencies": {
+    "requirejs": "~2.1.15",
+    "require-less": "~0.1.5",
+    "require-css": "~0.1.8",
+    "requirejs-text": "~2.0.12",
+    "boe": "~1.2.0",
+    "vue": "~1.0.16",
+    "rsvp": "~3.1.0",
+    "ctor": "~0.1.2",
+    "jsurl": "*",
+    "routie": "~0.3.2",
+    "resize-sensor": "~0.0.3",
+    "reemitter.js": "~1.1.1",
+    "vue-requirify": "https://github.com/normanzb/vue-requirify.git#~0.0.4",
+    "reqwest": "~2.0.5",
+    "requirejs-plugins": "~1.0.3"
+  }
+}
