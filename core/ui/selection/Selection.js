@@ -57,8 +57,8 @@ function(
         me.vueReadyPromise.then(function () {
             me.model.x = pos.left;
             me.model.y = pos.top; 
-            me.model.width = outerWidth - 2;
-            me.model.height = outerHeight - 2;
+            me.model.width = outerWidth;
+            me.model.height = outerHeight;
         });
     };
 
